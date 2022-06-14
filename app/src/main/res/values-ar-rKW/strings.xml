@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مسجل الطقس</string>
+    <string name="add_record_text">اضغط على + لإضافة سجل الطقس</string>
+    <string name="empty_title">لا شيء هنا حتى الآن!</string>
+    <string name="empty_message">لا توجد بيانات لإظهارها ، يرجى التحقق من الاتصال الخاص بك للحصول على أحدث بيانات الطقس</string>
+
+    <string name="sunrise_title">شروق الشمس</string>
+    <string name="sunset_title">غروب الشمس</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="pressure_title">ضغط</string>
+    <string name="visibility_title">الرؤية</string>
+    <string name="speed_title">ريح</string>
+    <string name="temp_max_title">درجة حرارة عالية</string>
+    <string name="temp_min_title">درجة حرارة منخفضة</string>
+    <string name="current_weather">الطقس الحالي</string>
+    <string name="no_data_to_show">لا توجد بيانات لعرضها</string>
+    <string name="duplicate_data_message">يرجى الانتظار لبضع دقائق وانقر فوق حفظ مرة أخرى لإضافة رقم قياسي جديد</string>
+    <string name="no_internetConnection">لا يوجد اتصال بالإنترنت</string>
+    <string name="end_point_not_found">نقطة النهاية التي يحاول تطبيقك الاتصال بها غير موجودة</string>
+    <string name="something_is_wrong">حدث خطأ ما آسف :(</string>
+    <string name="your_token_is_expired">رمزك المميز منتهي الصلاحية أو خاطئ</string>
+    <string name="timeout_message">طلب مهلة. حاول مرة اخرى.</string>
+    <string name="server_error_message">" تعطل الخادم  "</string>
+    <string name="add_new_weather_data_button_text">إضافة سجل جديد للطقس</string>
+    <string name="temp_uint">"°"</string>
+    <string name="temp_max_value">"H:%s°"</string>
+    <string name="temp_low_value">"L:%s°"</string>
+    <string name="title_home">حاليا</string>
+    <string name="title_dashboard">قديم</string>
+    <string name="deny_permission_message">سيدي ، أنت ترفض منحنا إذنًا للوصول إلى موقعك الحالي ، يرجى منح التطبيق إذنًا للوصول إلى الموقع من الإعدادات</string>
+
+</resources>
