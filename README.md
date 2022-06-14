@@ -1,5 +1,5 @@
 # WeatherLogger
-Android application to save weather conditions for your current location and the background change based on your time.
+Android application to save weather conditions for your current location and the background change based on your time every time you open the application it the reading from API and save the values in room database as history saved local.
 
 ## Screenshot
 ![Screenshot_20220109_224518](https://user-images.githubusercontent.com/18752334/148705453-23c750f5-d6d4-40ee-a6c1-50f0ffbbae28.png)
